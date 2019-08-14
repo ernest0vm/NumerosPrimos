@@ -66,6 +66,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                validator1.setText("");
+                validator2.setText("");
+
 //                if (txtInput1.getText() == null || txtInput1.getText().toString().equals(" ")){
 //                    validator1.setText(R.string.app_EmptyValue);
 //                    return;
@@ -117,10 +120,21 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        txtInput1.setOnClickListener(new View.OnClickListener() {
+        txtInput1.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
-            public void onClick(View v) {
-                validator1.setText("");
+            public void onFocusChange(View view, boolean hasFocus) {
+                if (hasFocus) {
+                    validator1.setText("");
+                }
+            }
+        });
+
+        txtInput2.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View view, boolean hasFocus) {
+                if (hasFocus) {
+                    validator2.setText("");
+                }
             }
         });
     }
