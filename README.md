@@ -28,7 +28,7 @@ Para iniciar el proyecto de la API, desde una consola se ejecuta el comando:
     http://<ip-server>:58366/api/numbers?inicio={numero inicial}&final={numero final}
 ```
 
-##Screenshots
+## Screenshots
 
 ![screenshot1](https://github.com/ernest0vm/NumerosPrimos/blob/master/Screenshots/api_3.jpg)
 
@@ -39,7 +39,7 @@ Se debe cambiar la ip del servidor en la URL de conexion:
     new HttpAsyncTask(jsonResponse).execute("http://<ip-server>:58366/api/numbers?inicio=" + StartValue + "&final=" + FinalValue);
 ```
 
-##Screenshots
+## Screenshots
 
 <img src=https://github.com/ernest0vm/NumerosPrimos/blob/master/Screenshots/Screenshot_1565807064.png width="360" height="720">
 <img src=https://github.com/ernest0vm/NumerosPrimos/blob/master/Screenshots/Screenshot_1565807920.png width="360" height="720">
