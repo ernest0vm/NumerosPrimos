@@ -1,0 +1,14 @@
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\ErnestoVM\Desktop\Test\WebApp\API\obj\Debug\netcoreapp2.2\API.pdb

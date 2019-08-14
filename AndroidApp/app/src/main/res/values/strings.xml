@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Numeros Primos</string>
+    <string name="app_title">Numeros Primos</string>
+    <string name="app_start">Inicio</string>
+    <string name="app_end">Fin</string>
+    <string name="app_find">Buscar</string>
+    <string name="app_textStart">Agrega numero inicial</string>
+    <string name="app_textEnd">Agrega numero final</string>
+    <string name="app_OutOfRange">Valor fuera de Rango. Proporciona un valor entre 1 y 200.</string>
+    <string name="app_NotNumber">El valor debe ser un numero.</string>
+    <string name="app_EmptyValue">Debe escribir un numero.</string>
+    <string name="app_NumberInvalid">El valor inicial no puede ser mayor que el valor final.</string>
+
+</resources>
