@@ -1,6 +1,6 @@
 ## Numeros Primos
 
-# Backend
+# NetCore API (Backend)
 
 - Dependencia de paquetes nuget en API.csproj
 ```
@@ -12,9 +12,9 @@
   </ItemGroup>
 ```
 Para iniciar el proyecto de la API, desde una consola se ejecuta el comando:
-
-dotnet run --urls http://*:58366
-
+```
+    dotnet run --urls http://*:58366
+```
 - Se puede consultar un numero primo en especifico en la url:
 ```
     http://<ip-server>:58366/api/numbers/{numero a consultar}
